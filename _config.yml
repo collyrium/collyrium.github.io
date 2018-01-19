@@ -26,8 +26,12 @@ github_username:  godlessfather
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 #theme: minima
 remote_theme: mmistakes/hpstr-jekyll-theme
+=======
+theme: minima
+>>>>>>> parent of eb9187c... Testing Moon
 plugins:
   - jekyll-feed
 
