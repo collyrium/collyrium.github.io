@@ -21,8 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   of the earth? Let's ask more than we tell.
 baseurl: ""
 url: ""
-twitter_username: godlessfather
-github_username:  godlessfather
+github_username:  collyrium
 
 # Build settings
 markdown: kramdown
